@@ -23,4 +23,7 @@ https://www.youtube.com/watch?v=yef23sJjiU0
 
 https://www.youtube.com/watch?v=YCkFFtVEEG4
 
+This one is just neat:
+https://create.arduino.cc/projecthub/chuygen/connect-oled-screens-and-i2c-sensors-over-100ft-away-6541da
+
 might build it around nixie or VFD tubes in a sub folder.
