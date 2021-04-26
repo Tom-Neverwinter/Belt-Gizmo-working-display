@@ -6,8 +6,6 @@ Just gathering information atm.
 
 0.91 inch OLED display module white/blue OLED 128X32 LCD LED Display SSD1306 12864 0.91 IIC i2C Communicate for ardunio
 
-http://cestmir.freeside.sk/projects/dhtml-nixie-display/
-
 https://www.ti.com/product/TCA9548A
 
 main video explaining setup:
@@ -25,5 +23,11 @@ https://www.youtube.com/watch?v=YCkFFtVEEG4
 
 This one is just neat:
 https://create.arduino.cc/projecthub/chuygen/connect-oled-screens-and-i2c-sensors-over-100ft-away-6541da
+
+How we get images:
+
+https://github.com/javl/image2cpp
+
+http://cestmir.freeside.sk/projects/dhtml-nixie-display/
 
 might build it around nixie or VFD tubes in a sub folder.
