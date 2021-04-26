@@ -18,4 +18,6 @@ https://github.com/bitbank2/Multi_BitBang
 
 https://www.youtube.com/watch?v=yef23sJjiU0
 
+https://www.youtube.com/watch?v=YCkFFtVEEG4
+
 might build it around nixie or VFD tubes in a sub folder.
