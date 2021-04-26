@@ -10,6 +10,9 @@ http://cestmir.freeside.sk/projects/dhtml-nixie-display/
 
 https://www.ti.com/product/TCA9548A
 
+main video explaining setup:
+https://create.arduino.cc/projecthub/tarantula3/i2c-oled-display-using-arduino-nodemcu-7682e8
+
 https://www.youtube.com/watch?v=Y9OyLMUgoFk
 
 https://www.hackster.io/news/control-multiple-i2c-oled-displays-on-a-single-bus-cf5770bc61de
