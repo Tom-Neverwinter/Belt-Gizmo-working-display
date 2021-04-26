@@ -30,4 +30,6 @@ https://github.com/javl/image2cpp
 
 http://cestmir.freeside.sk/projects/dhtml-nixie-display/
 
+https://www.electronics-lab.com/project/displaying-customized-graphics-oled-display-arduino/
+
 might build it around nixie or VFD tubes in a sub folder.
