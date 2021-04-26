@@ -6,4 +6,12 @@ make a ghostbusters belt gizmo that has an actual working display.
 
 http://cestmir.freeside.sk/projects/dhtml-nixie-display/
 
+https://www.ti.com/product/TCA9548A
+
+https://www.youtube.com/watch?v=Y9OyLMUgoFk
+
+https://www.hackster.io/news/control-multiple-i2c-oled-displays-on-a-single-bus-cf5770bc61de
+
+https://github.com/bitbank2/Multi_BitBang
+
 might build it around nixie or VFD tubes in a sub folder.
